@@ -1,7 +1,7 @@
 # Hola, soy Neymi Becerra 
 
 ## Founder & Lead Architect at IVI Projects
-Especializada en diseño de sistemas empresariales con IA y automatización avanzada para empresas de distribución B2B. Construyo arquitecturas escalables con n8n que conectan ventas, operaciones y datos en ecosistemas complejos.
+Especializada en diseño de sistemas empresariales con IA y automatización avanzada para empresas B2B. Construyo sistemas escalables con n8n que conectan ventas, operaciones y datos en ecosistemas complejos.
 ---
 
 ### Áreas de Especialización:
@@ -14,7 +14,7 @@ Especializada en diseño de sistemas empresariales con IA y automatización avan
 **Inteligencia Artificial Aplicada a Procesos Reales**
 - Implementación de IA (OpenAI, Anthropic) integrada en flujos operativos
 - Sistemas de clasificación automática, enrutamiento inteligente y asistencia en tiempo real
-- Chatbots y asistentes de voz empresariales con tecnología VAPI
+- Chatbots y asistentes de voz empresariales
 
 **Automatización Avanzada con n8n**
 - Workflows complejos que conectan múltiples sistemas y fuentes de datos
@@ -23,7 +23,7 @@ Especializada en diseño de sistemas empresariales con IA y automatización avan
 
 **Integraciones y Desarrollo Full-Stack**
 - APIs empresariales: HubSpot, Apollo, Perfex CRM, Odoo, Supabase
-- Desarrollo web con React, Node.js y WordPress
+- Desarrollo web con JavaScript, Node.js y WordPress
 - Bases de datos relacionales y vectoriales (MySQL, MongoDB, Qdrant)
 ---
 
@@ -48,7 +48,7 @@ Especializada en diseño de sistemas empresariales con IA y automatización avan
 
 ### Sobre mí:
 
-Soy una desarrolladora apasionada por la **Inteligencia Artificial** y la **automatización con n8n**, dedicada a crear soluciones digitales eficientes y experiencias excepcionales. Me caracterizo por mi enfoque creativo para resolver problemas, mi curiosidad constante y mi compromiso por mejorar continuamente y asumir nuevos desafíos.
+Soy una desarrolladora apasionada por la **Inteligencia Artificial**, dedicada a crear soluciones digitales eficientes y experiencias excepcionales. Me caracterizo por mi enfoque creativo para resolver problemas, mi curiosidad constante y mi compromiso por mejorar continuamente y asumir nuevos desafíos.
 
 Actualmente trabajo en [**IVI Projects**](https://iviprojects.com), donde ayudo a empresas a automatizar sus procesos y aprovechar el poder de la IA para crecer.
 
