@@ -1,20 +1,30 @@
 # Hola, soy Neymi Becerra 
 
-## Desarrolladora & Especialista en Sistemas Automatizados con IA
-
-Creo soluciones digitales eficientes y escalables usando **n8n**, **inteligencia artificial** y **automatización** para ayudar a empresas a optimizar sus procesos y escalar sus operaciones y ventas.
-
+## Founder & Lead Architect at IVI Projects
+Especializada en diseño de sistemas empresariales con IA y automatización avanzada para empresas de distribución B2B. Construyo arquitecturas escalables con n8n que conectan ventas, operaciones y datos en ecosistemas complejos.
 ---
 
-### Lo que hago:
+### Áreas de Especialización:
 
--  **Desarrollo de workflows de automatización** con n8n
--  **Integración de IA** (OpenAI, Anthropic) en procesos empresariales
--  **Chatbots y asistentes de voz** con tecnología VAPI
--  **Integraciones de CRM y APIs** (HubSpot, Apollo, Perfex)
--  **Desarrollo web** (React, Node.js, WordPress)
-- **Automatización de lead generation** y data enrichment
+**Arquitectura de Sistemas Empresariales**
+- Diseño e implementación de sistemas completos de ventas y operaciones para empresas B2B
+- Integración end-to-end de CRM, herramientas de comunicación y bases de datos
+- Arquitectura modular escalable basada en n8n y tecnologías modernas
 
+**Inteligencia Artificial Aplicada a Procesos Reales**
+- Implementación de IA (OpenAI, Anthropic) integrada en flujos operativos
+- Sistemas de clasificación automática, enrutamiento inteligente y asistencia en tiempo real
+- Chatbots y asistentes de voz empresariales con tecnología VAPI
+
+**Automatización Avanzada con n8n**
+- Workflows complejos que conectan múltiples sistemas y fuentes de datos
+- Automatización de lead generation, data enrichment y seguimiento comercial
+- Orquestación de procesos entre equipos comerciales y operativos
+
+**Integraciones y Desarrollo Full-Stack**
+- APIs empresariales: HubSpot, Apollo, Perfex CRM, Odoo, Supabase
+- Desarrollo web con React, Node.js y WordPress
+- Bases de datos relacionales y vectoriales (MySQL, MongoDB, Qdrant)
 ---
 
 ### Tech Stack:
